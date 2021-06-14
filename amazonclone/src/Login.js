@@ -38,7 +38,7 @@ function Login() {
             <Link to='/'>
                 <img
                     className="login__logo"
-                    src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png' 
+                    src='https://fanart.tv/fanart/movies/10329/hdmovielogo/congo-5e452b7c6e796.png' 
                 />
             </Link>
 
@@ -56,6 +56,7 @@ function Login() {
                 </form>
 
                 <p>
+                    please use guestaccount@gmail.com and password as the password!
                     By signing-in you agree to the AMAZON FAKE CLONE Conditions of Use & Sale. Please
                     see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice.
                 </p>
