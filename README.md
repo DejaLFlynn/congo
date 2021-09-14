@@ -1,7 +1,7 @@
 # Congo
 
 
-![Metaphysical](https://user-images.githubusercontent.com/59297307/125382712-2ad88600-e364-11eb-956c-6a697afbd470.png)
+![Metaphysical]()
 
 
 
@@ -13,7 +13,7 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 
 
-![](metaphysicaldemo.gif)
+![]()
 
 
 # Technologies Used:
