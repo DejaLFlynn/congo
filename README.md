@@ -12,6 +12,8 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 
 
+![Alt Text](https://imgflip.com/gif/5n3r21)
+
 
 ![](https://imgflip.com/gif/5n3r21)
 
