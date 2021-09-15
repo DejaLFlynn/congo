@@ -12,7 +12,7 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 
 
-![](https://media.giphy.com/media/SOhOaYiqgWUcixQ93T/source.mov?cid=790b7611e85de1f990063c076c3737c4e90485f932e23326&rid=source.mov&ct=g)
+![](https://media.giphy.com/media/SOhOaYiqgWUcixQ93T/giphy.gif)
 
 
 
