@@ -12,10 +12,10 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 
 
-![Alt Text](https://imgflip.com/gif/5n3r21)
+![Alt Text](https://media.giphy.com/media/2C05Ldv9CgcSWJkT5H/giphy.gif?cid=790b7611ed3a3e109c22089c931f85f4eb47dba3291ae444&rid=giphy.gif&ct=g)
 
 
-![](https://imgflip.com/gif/5n3r21)
+
 
 
 # Technologies Used:
