@@ -39,10 +39,8 @@ A E Commerce web platform where individuals could securely purchase goods and se
 2. Make sure the Rails server is already running, in seperate terminal run:
  
         `npm start`
-        
-    
+     
 ## Future Updates:
-
 - [ ] More Items
 - [ ] Customer Cart storage
 
