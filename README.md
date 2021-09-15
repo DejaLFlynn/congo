@@ -13,7 +13,7 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 
 
-![]()
+![](https://imgflip.com/gif/5n3r21)
 
 
 # Technologies Used:
