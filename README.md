@@ -1,7 +1,7 @@
 # Congo
 
 
-![](https://github.com/DejaLFlynn/congo/blob/master/amazonclone/src/assets/congo.png)
+![](https://github.com/DejaLFlynn/congo/blob/master/amazonclone/src/assets/congo%20(1).png)
 
 
 
