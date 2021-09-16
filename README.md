@@ -38,8 +38,7 @@ A E Commerce web platform where individuals could securely purchase goods and se
 
 2. Make sure the server is already running, in seperate terminal run:
  
-        `npm start`
-     
+        `npm start`  
 ## Future Updates:
 - [ ] More Items
 - [ ] Customer Cart storage
